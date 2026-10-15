@@ -1,6 +1,8 @@
 # 自行车头盔设计 · 用户画像与用户旅程图 Skills
 
-这个仓库收录三个 Skill，供自行车头盔设计项目制作用户画像、用户旅程图，以及后续的视觉排版与提案展示。前两个来自 [Product on Purpose / PM-Skills](https://github.com/product-on-purpose/pm-skills)，第三个来自 [Dai Pan / Infographic Editorial Design](https://github.com/dpan538/infographic-editorial-design-skill)。
+这个仓库收录四个 Skill，供自行车头盔设计项目制作用户画像、用户旅程图，装备使用研究，以及后续的视觉排版与提案展示。前两个来自 [Product on Purpose / PM-Skills](https://github.com/product-on-purpose/pm-skills)，第三个来自 [Dai Pan / Infographic Editorial Design](https://github.com/dpan538/infographic-editorial-design-skill)。
+
+第四个来自 [cuevasclemente/mypi](https://github.com/cuevasclemente/mypi)，用于头盔与防护装备研究。
 
 ## 打开文件夹
 
@@ -9,6 +11,7 @@
 | 用户画像 | [skills/foundation-persona](skills/foundation-persona/) | [SKILL.md](skills/foundation-persona/SKILL.md) |
 | 用户旅程图 | [skills/discover-journey-map](skills/discover-journey-map/) | [SKILL.md](skills/discover-journey-map/SKILL.md) |
 | 视觉排版与设计表达 | [skills/infographic-editorial-design](skills/infographic-editorial-design/) | [SKILL.md](skills/infographic-editorial-design/SKILL.md) |
+| 头盔与防护装备使用研究 | [skills/e-bike-helmet-protective-gear-research](skills/e-bike-helmet-protective-gear-research/) | [SKILL.md](skills/e-bike-helmet-protective-gear-research/SKILL.md) |
 | 填写人物与项目参数 | [project](project/) | [brief.md](project/brief.md) |
 
 画像与旅程 Skill 各含主说明、输出模板和示例；视觉 Skill 包含设计原则、网格、风格定位、可读性和评估参考。上游文件保持原样，具体来源和版本见 [SOURCES.md](SOURCES.md)。
@@ -29,6 +32,12 @@
 在本项目中的用途：让甲方清楚看到用户是谁、骑行过程遇到什么问题、头盔有什么设计机会，以及方案依据是什么。页面设计需要说明为什么采用这种结构和视觉语言，并让重点结论容易找到。
 
 它提供设计方法与检查标准。最终生成网页、图片、PDF 或演示文稿，需要按交付格式使用相应工具；收录文件不代表已经生成成品或执行了视觉评估。
+
+## 第四个 Skill：头盔与防护装备研究
+
+[E-Bike Helmet & Protective-Gear Research](skills/e-bike-helmet-protective-gear-research/SKILL.md) 覆盖头盔、眼镜、手套、鞋服及其舒适性、搭配与场景取舍，并要求核对产品证据。
+
+它原本面向电助力自行车；本项目如研究普通自行车，应按实际车型和骑行情境使用。它没有完整覆盖码表、功率计等电子装备的操作体验。详见 [项目使用说明](skills/e-bike-helmet-protective-gear-research/PROJECT-USAGE.md)，其中提供工具适配与中文调用指令。
 
 ## 头盔项目怎么使用
 
@@ -70,5 +79,7 @@
 
 - 画像与旅程：[product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)，保留 [Apache License 2.0](LICENSE)。
 - 视觉设计：[dpan538/infographic-editorial-design-skill](https://github.com/dpan538/infographic-editorial-design-skill)，保留该目录内的 [MIT 许可证及第三方材料说明](skills/infographic-editorial-design/LICENSE)。
+
+- 装备研究：[cuevasclemente/mypi](https://github.com/cuevasclemente/mypi)，保留该目录内的 [MPL-2.0 许可证](skills/e-bike-helmet-protective-gear-research/LICENSE)。
 
 各来源文件按各自许可证使用，原作者归属、固定版本和来源链接记录在 [SOURCES.md](SOURCES.md)。

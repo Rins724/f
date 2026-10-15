@@ -50,3 +50,19 @@
 | `skills/infographic-editorial-design/references/prompt-recipes.md` | [原文件](https://github.com/dpan538/infographic-editorial-design-skill/blob/aa77efed2c8a798e56dae48a47e396adb1595757/references/prompt-recipes.md) | `ba4a0d0304294860a6f5de78298fe59423be7065` |
 | `skills/infographic-editorial-design/references/publication-boundaries.md` | [原文件](https://github.com/dpan538/infographic-editorial-design-skill/blob/aa77efed2c8a798e56dae48a47e396adb1595757/references/publication-boundaries.md) | `ea7303d79bfb52bbfb431656cfcfe88ce4518706` |
 | `skills/infographic-editorial-design/references/style-positioning.md` | [原文件](https://github.com/dpan538/infographic-editorial-design-skill/blob/aa77efed2c8a798e56dae48a47e396adb1595757/references/style-positioning.md) | `e85d4fe17cd4a21fcb5ada9e7774c358da3770cc` |
+
+## 头盔与防护装备研究 Skill 来源
+
+- 源项目：[cuevasclemente/mypi](https://github.com/cuevasclemente/mypi)
+- 固定上游提交：[`ab1e4a7506fc7334b2817b6f1ecf150113ec614c`](https://github.com/cuevasclemente/mypi/commit/ab1e4a7506fc7334b2817b6f1ecf150113ec614c)
+- 收录日期：2026-10-15
+- 原版 SKILL.md 按上游 MPL-2.0 许可收录，内容未修改；许可证保存在同目录 LICENSE。
+- 新增 PROJECT-USAGE.md 为本项目使用说明，明确普通自行车场景适配、可选工具替代和覆盖范围。
+- 上游 Skill 目录仅有 SKILL.md，无附属脚本或模板。未复制源仓库的个人上下文、服务配置或其他项目文件。
+- 本次 GitHub 代码检索及网页检索使用 cycling / bicycle / gear / equipment experience / helmet comfort 与 SKILL.md 等组合。检查过 cycling-plan-coach、cycling、cycling-coach、cycling-route-planner 等候选；前者偏训练，通用指南的装备体验细节较少。
+- 此项较贴近头盔和穿戴防护装备的体验研究；未找到并验证一个完整覆盖码表、传感器、整车与穿戴装备体验的现成综合 Skill。未将本项描述成全装备数据库。
+
+| 本仓库路径 | 固定版本来源 | 上游文件 SHA |
+| --- | --- | --- |
+| `skills/e-bike-helmet-protective-gear-research/SKILL.md` | [原文件](https://github.com/cuevasclemente/mypi/blob/ab1e4a7506fc7334b2817b6f1ecf150113ec614c/skills/e-bike-helmet-protective-gear-research/SKILL.md) | `7115ea725dc99d3a090c9f702afbdf81eee7df8f` |
+| `skills/e-bike-helmet-protective-gear-research/LICENSE` | [原文件](https://github.com/cuevasclemente/mypi/blob/ab1e4a7506fc7334b2817b6f1ecf150113ec614c/LICENSE) | `d0a1fa1482eea82e19510e7920cbe3a03e41f691` |
