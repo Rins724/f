@@ -56,7 +56,7 @@
 - 源项目：[cuevasclemente/mypi](https://github.com/cuevasclemente/mypi)
 - 固定上游提交：[`ab1e4a7506fc7334b2817b6f1ecf150113ec614c`](https://github.com/cuevasclemente/mypi/commit/ab1e4a7506fc7334b2817b6f1ecf150113ec614c)
 - 收录日期：2026-10-15
-- 原版 SKILL.md 按上游 MPL-2.0 许可收录，内容未修改；许可证保存在同目录 LICENSE。
+- 原版按 MPL-2.0 收录；2026-10-15 修改描述与入口，加入普通自行车场景和中国国标 Skill 链接。保持 MPL-2.0，原 SHA 表示修改前来源。
 - 新增 PROJECT-USAGE.md 为本项目使用说明，明确普通自行车场景适配、可选工具替代和覆盖范围。
 - 上游 Skill 目录仅有 SKILL.md，无附属脚本或模板。未复制源仓库的个人上下文、服务配置或其他项目文件。
 - 本次 GitHub 代码检索及网页检索使用 cycling / bicycle / gear / equipment experience / helmet comfort 与 SKILL.md 等组合。检查过 cycling-plan-coach、cycling、cycling-coach、cycling-route-planner 等候选；前者偏训练，通用指南的装备体验细节较少。
@@ -66,3 +66,7 @@
 | --- | --- | --- |
 | `skills/e-bike-helmet-protective-gear-research/SKILL.md` | [原文件](https://github.com/cuevasclemente/mypi/blob/ab1e4a7506fc7334b2817b6f1ecf150113ec614c/skills/e-bike-helmet-protective-gear-research/SKILL.md) | `7115ea725dc99d3a090c9f702afbdf81eee7df8f` |
 | `skills/e-bike-helmet-protective-gear-research/LICENSE` | [原文件](https://github.com/cuevasclemente/mypi/blob/ab1e4a7506fc7334b2817b6f1ecf150113ec614c/LICENSE) | `d0a1fa1482eea82e19510e7920cbe3a03e41f691` |
+
+## 中国头围头型国标 Skill（2026-10-15）
+
+新增 skills/china-head-standards-fit，为本仓库根据官方标准目录和研究资料新编，按 MPL-2.0 发布，不冒充从 GitHub 找到的现成 Skill。核心依据 GB/T 2428-2024，三维成年男性头型参考 GB/T 23461-2009；相关来源、适用人群与核对范围见 references。此次只核实标准目录状态，未取得并逐表审读正文，未收录尺寸原表或认证结论。装备研究 Skill 仍为现有独立 Skill，并已增加相互链接。

@@ -1,6 +1,6 @@
 # 骑行头盔与防护装备研究：项目使用说明
 
-本目录收录 [cuevasclemente/mypi 的原版 Skill](https://github.com/cuevasclemente/mypi/blob/ab1e4a7506fc7334b2817b6f1ecf150113ec614c/skills/e-bike-helmet-protective-gear-research/SKILL.md)，主文件保持原文。它是本次检索中与自行车头盔项目较贴近的装备研究工具，尚不是覆盖所有自行车装备的体验知识库。
+本目录收录 [cuevasclemente/mypi 的原版 Skill](https://github.com/cuevasclemente/mypi/blob/ab1e4a7506fc7334b2817b6f1ecf150113ec614c/skills/e-bike-helmet-protective-gear-research/SKILL.md)，主文件已于 2026-10-15 补入普通自行车场景入口与中国国标 Skill 的链接；上游版本可通过 SOURCES.md 追溯。它是本次检索中与自行车头盔项目较贴近的装备研究工具，尚不是覆盖所有自行车装备的体验知识库。
 
 ## 覆盖范围
 
@@ -30,3 +30,7 @@
 ## 来源与许可
 
 原版 SKILL.md 按 [MPL-2.0](LICENSE) 收录；本目录提供源文件及许可证，来源版本详见仓库根目录 SOURCES.md。本说明为本仓库新增的项目适配说明，不代表上游作者背书。
+
+## 中国国标与头型适配
+
+涉及中国现行头围、头长、头宽、三维头型及人群适配时，结合 [china-head-standards-fit](../china-head-standards-fit/SKILL.md)。它以中国人体尺寸国家标准为依据，另行核查头盔产品安全要求。

@@ -1,9 +1,15 @@
 ---
 name: e-bike-helmet-protective-gear-research
-description: Research and recommend e-bike helmets and protective gear using a privacy-aware requirements interview, current official standards and local-rule verification, independent-rating evidence, fit and coverage assessment, and speed/use/crash-context tradeoffs. Verify every current product claim from authoritative sources; never imply a certification or rating guarantees safety.
+description: Research bicycle and e-bike helmets and protective gear using a privacy-aware requirements interview, current official standards and local-rule verification, independent-rating evidence, fit and coverage assessment, and speed/use/crash-context tradeoffs. Verify every current product claim from authoritative sources; never imply a certification or rating guarantees safety.
 ---
 
-# E-Bike Helmet & Protective-Gear Research
+# Bicycle / E-Bike Helmet & Protective-Gear Research
+
+## Repository integration (2026-10-15)
+Use the user's actual bicycle type. For ordinary bicycles, do not assume e-bike classes or e-bike helmet rules. For Chinese head circumference/head shape standards and population fit, read [china-head-standards-fit](../china-head-standards-fit/SKILL.md) and its relevant references.
+If Memoriki is unavailable, use user-provided information and project/brief.md; use available web search instead of requiring ExaSearch.
+This skill focuses on helmets and protective wear. It is not a complete workflow for cycling computers, power meters or drivetrain experience. Do not claim those areas are already covered.
+
 
 Use this skill for e-bike helmet, full-face, MIPS-like rotational-management feature, protective-clothing, glove, eye-protection, or footwear decisions. It supports safety-conscious choices; it does not replace local law, professional fitting, medical advice, training, or crash prevention.
 

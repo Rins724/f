@@ -1,6 +1,6 @@
 # 自行车头盔设计 · 用户画像与用户旅程图 Skills
 
-这个仓库收录四个 Skill，供自行车头盔设计项目制作用户画像、用户旅程图，装备使用研究，以及后续的视觉排版与提案展示。前两个来自 [Product on Purpose / PM-Skills](https://github.com/product-on-purpose/pm-skills)，第三个来自 [Dai Pan / Infographic Editorial Design](https://github.com/dpan538/infographic-editorial-design-skill)。
+这个仓库收录五个 Skill，供自行车头盔设计项目制作用户画像、用户旅程图，装备使用研究，以及后续的视觉排版与提案展示。前两个来自 [Product on Purpose / PM-Skills](https://github.com/product-on-purpose/pm-skills)，第三个来自 [Dai Pan / Infographic Editorial Design](https://github.com/dpan538/infographic-editorial-design-skill)。
 
 第四个来自 [cuevasclemente/mypi](https://github.com/cuevasclemente/mypi)，用于头盔与防护装备研究。
 
@@ -12,6 +12,7 @@
 | 用户旅程图 | [skills/discover-journey-map](skills/discover-journey-map/) | [SKILL.md](skills/discover-journey-map/SKILL.md) |
 | 视觉排版与设计表达 | [skills/infographic-editorial-design](skills/infographic-editorial-design/) | [SKILL.md](skills/infographic-editorial-design/SKILL.md) |
 | 头盔与防护装备使用研究 | [skills/e-bike-helmet-protective-gear-research](skills/e-bike-helmet-protective-gear-research/) | [SKILL.md](skills/e-bike-helmet-protective-gear-research/SKILL.md) |
+| 中国头围头型国标与适配 | [skills/china-head-standards-fit](skills/china-head-standards-fit/) | [SKILL.md](skills/china-head-standards-fit/SKILL.md) |
 | 填写人物与项目参数 | [project](project/) | [brief.md](project/brief.md) |
 
 画像与旅程 Skill 各含主说明、输出模板和示例；视觉 Skill 包含设计原则、网格、风格定位、可读性和评估参考。上游文件保持原样，具体来源和版本见 [SOURCES.md](SOURCES.md)。
@@ -83,3 +84,7 @@
 - 装备研究：[cuevasclemente/mypi](https://github.com/cuevasclemente/mypi)，保留该目录内的 [MPL-2.0 许可证](skills/e-bike-helmet-protective-gear-research/LICENSE)。
 
 各来源文件按各自许可证使用，原作者归属、固定版本和来源链接记录在 [SOURCES.md](SOURCES.md)。
+
+## 中国头围头型国标与适配
+
+新增 [china-head-standards-fit](skills/china-head-standards-fit/SKILL.md)，与装备研究 Skill 分开。以 GB/T 2428-2024《成年人头面部尺寸》和适用的三维头型标准为依据，研究头围、头长、头宽、尺码与人群适配。它是本仓库新编的研究指引，原始尺寸需从官方标准正文核对；当前没有预填标准尺寸表，也不凭尺寸匹配判断头盔整体合格。
